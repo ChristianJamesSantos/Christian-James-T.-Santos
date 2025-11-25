@@ -8,7 +8,7 @@ Education
 
 ## 📜 Certifications
 
-- **SQL and Relational Databases 101** — Cognitive Class  
+- **SQL and Relational Databases 101** — 
   [View Certificate](https://courses.cognitiveclass.ai/certificates/0283b80ce7fa4cd6ae7e4db20631b710)
 
   
